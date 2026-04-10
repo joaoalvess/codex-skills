@@ -1,4 +1,4 @@
 interface:
   display_name: "Git Publish"
   short_description: "Commit, push, and open PRs with grouped conventional commits"
-  default_prompt: "Publish the current changes with commit-push or commit-push-pr using grouped conventional commits, no codex naming, no co-author trailers, and an English pr.md for PR flow."
+  default_prompt: "Publish current changes with commit-push or commit-push-pr using conventional commits and an English pr.md file."

@@ -1,6 +1,6 @@
 {
   "name": "joaoalvess-skills",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Personal automation and workflow skills for Codex, including Alexa smart-home control, Spotify playback control, and Git/GitHub publish workflows.",
   "author": {
     "name": "Joao Alves",
@@ -37,7 +37,7 @@
     "websiteURL": "https://github.com/joaoalvess/codex-skills",
     "privacyPolicyURL": "https://github.com/joaoalvess/codex-skills",
     "termsOfServiceURL": "https://github.com/joaoalvess/codex-skills",
-    "defaultPrompt": "Use Joaoalvess Skills to control Alexa or Spotify, or publish the current Git changes with commit-push or commit-push-pr using conventional commits.",
+    "defaultPrompt": "Use Joaoalvess Skills to control Alexa or Spotify, or publish Git changes with commit-push or commit-push-pr.",
     "brandColor": "#0F172A",
     "composerIcon": "./assets/joaoalvess-skills.svg",
     "logo": "./assets/joaoalvess-skills.svg",
