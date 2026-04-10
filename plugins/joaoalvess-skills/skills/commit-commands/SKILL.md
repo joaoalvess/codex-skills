@@ -1,5 +1,5 @@
 ---
-name: git-publish
+name: commit-commands
 description: >-
   Automate Git and GitHub publish workflows from Codex with two explicit modes:
   `commit-push` for grouped conventional commits on the current branch, and
@@ -11,7 +11,7 @@ description: >-
   co-author trailers.
 ---
 
-# Git Publish
+# Commit Commands
 
 Use this skill only when the user explicitly wants the full publish workflow, not for simple Git inspection.
 

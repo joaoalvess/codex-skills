@@ -7,7 +7,7 @@ Repo for local Codex plugins distributed to the team.
 - `joaoalvess-skills`
   - `alexa-control`
   - `spotify-control`
-  - `git-publish`
+  - `commit-commands`
 
 ## Team setup
 
@@ -22,7 +22,7 @@ Repo for local Codex plugins distributed to the team.
 - `alexa-control`
   - local checkout of `alexa-remote-control` at `~/.alexa-remote-control`
   - authenticated Alexa session for the target account
-- `git-publish`
+- `commit-commands`
   - `git` repository with an `origin` remote
   - `gh` installed and authenticated for the `commit-push-pr` flow
 
