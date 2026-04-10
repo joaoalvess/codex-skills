@@ -1,0 +1,42 @@
+{
+  "name": "joaoalvess-skills",
+  "version": "0.1.0",
+  "description": "Personal automation skills for Codex, including Alexa smart-home control and Spotify playback control on macOS.",
+  "author": {
+    "name": "Joao Alves",
+    "email": "contato@joaoalvescosta.com.br",
+    "url": "https://github.com/joaoalvess"
+  },
+  "homepage": "https://github.com/joaoalvess/codex-skills",
+  "repository": "https://github.com/joaoalvess/codex-skills",
+  "license": "MIT",
+  "keywords": [
+    "automation",
+    "alexa",
+    "spotify",
+    "macos",
+    "smart-home",
+    "codex"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Joaoalvess Skills",
+    "shortDescription": "Control Alexa devices and Spotify playback from Codex",
+    "longDescription": "Use Joaoalvess Skills to control Amazon Alexa devices, smart-home routines, and Spotify playback from Codex with local macOS automation and a preconfigured alexa-remote-control setup.",
+    "developerName": "Joao Alves",
+    "category": "Automation",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/joaoalvess/codex-skills",
+    "privacyPolicyURL": "https://github.com/joaoalvess/codex-skills",
+    "termsOfServiceURL": "https://github.com/joaoalvess/codex-skills",
+    "defaultPrompt": "Control Alexa devices, routines, and Spotify playback from my Mac using these local automation skills.",
+    "brandColor": "#0F172A",
+    "composerIcon": "./assets/joaoalvess-skills.svg",
+    "logo": "./assets/joaoalvess-skills.svg",
+    "screenshots": []
+  }
+}

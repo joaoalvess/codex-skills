@@ -1,0 +1,4 @@
+interface:
+  display_name: "Alexa Control"
+  short_description: "Control Amazon Alexa devices and routines from Codex"
+  default_prompt: "Control Alexa devices, smart-home actions, routines, or Echo playback using the local alexa-remote-control setup."
