@@ -1,6 +1,14 @@
 ---
 name: git-publish
-description: Automate Git and GitHub publish workflows from Codex with two explicit modes: `commit-push` for grouped conventional commits on the current branch, and `commit-push-pr` for creating a new branch, grouped conventional commits, push, `pr.md` generation in English, and a ready pull request with `gh`. Use when the user asks to "faz commit e push", "commit-push", "cria branch, commit, push e pr", "commit-push-pr", publish the current work, split changes into small conventional commits, or open a PR without codex mentions or co-author trailers.
+description: >-
+  Automate Git and GitHub publish workflows from Codex with two explicit modes:
+  `commit-push` for grouped conventional commits on the current branch, and
+  `commit-push-pr` for creating a new branch, grouped conventional commits,
+  push, `pr.md` generation in English, and a ready pull request with `gh`. Use
+  when the user asks to "faz commit e push", "commit-push", "cria branch,
+  commit, push e pr", "commit-push-pr", publish the current work, split changes
+  into small conventional commits, or open a PR without codex mentions or
+  co-author trailers.
 ---
 
 # Git Publish
