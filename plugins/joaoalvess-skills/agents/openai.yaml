@@ -1,6 +1,6 @@
 interface:
   display_name: "Joaoalvess Skills"
-  short_description: "Control Alexa devices and Spotify playback from Codex"
-  default_prompt: "Use Joaoalvess Skills to control Alexa devices, smart-home routines, or Spotify playback from this Mac."
+  short_description: "Control Alexa and Spotify, and automate Git publish workflows"
+  default_prompt: "Use Joaoalvess Skills to control Alexa devices, smart-home routines, Spotify playback, or publish Git changes with commit-push or commit-push-pr."
   icon_small: "./assets/joaoalvess-skills.svg"
   icon_large: "./assets/joaoalvess-skills.svg"

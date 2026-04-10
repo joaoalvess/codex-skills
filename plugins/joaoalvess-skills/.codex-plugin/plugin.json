@@ -1,7 +1,7 @@
 {
   "name": "joaoalvess-skills",
   "version": "0.1.0",
-  "description": "Personal automation skills for Codex, including Alexa smart-home control and Spotify playback control on macOS.",
+  "description": "Personal automation and workflow skills for Codex, including Alexa smart-home control, Spotify playback control, and Git/GitHub publish workflows.",
   "author": {
     "name": "Joao Alves",
     "email": "contato@joaoalvescosta.com.br",
@@ -14,6 +14,10 @@
     "automation",
     "alexa",
     "spotify",
+    "git",
+    "github",
+    "pull-request",
+    "workflow",
     "macos",
     "smart-home",
     "codex"
@@ -21,8 +25,8 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Joaoalvess Skills",
-    "shortDescription": "Control Alexa devices and Spotify playback from Codex",
-    "longDescription": "Use Joaoalvess Skills to control Amazon Alexa devices, smart-home routines, and Spotify playback from Codex with local macOS automation and a preconfigured alexa-remote-control setup.",
+    "shortDescription": "Control Alexa and Spotify, and automate Git publish workflows from Codex",
+    "longDescription": "Use Joaoalvess Skills to control Amazon Alexa devices, smart-home routines, and Spotify playback from Codex, and to automate Git and GitHub publish flows with grouped conventional commits, non-codex branch naming, and ready pull requests.",
     "developerName": "Joao Alves",
     "category": "Automation",
     "capabilities": [
@@ -33,7 +37,7 @@
     "websiteURL": "https://github.com/joaoalvess/codex-skills",
     "privacyPolicyURL": "https://github.com/joaoalvess/codex-skills",
     "termsOfServiceURL": "https://github.com/joaoalvess/codex-skills",
-    "defaultPrompt": "Control Alexa devices, routines, and Spotify playback from my Mac using these local automation skills.",
+    "defaultPrompt": "Use Joaoalvess Skills to control Alexa or Spotify, or publish the current Git changes with commit-push or commit-push-pr using conventional commits.",
     "brandColor": "#0F172A",
     "composerIcon": "./assets/joaoalvess-skills.svg",
     "logo": "./assets/joaoalvess-skills.svg",
