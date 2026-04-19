@@ -5,6 +5,7 @@ This plugin packages tvOS-first development workflows in `plugins/build-tvos-app
 It currently includes these skills:
 
 - `tvos-ui-patterns`
+- `tvos-liquid-glass`
 - `tvos-media-playback`
 - `tvos-system-surfaces`
 - `tvos-debugger-agent`
@@ -15,6 +16,7 @@ It currently includes these skills:
 ## What It Covers
 
 - building modern tvOS SwiftUI interfaces around focus, remote behavior, shelves, lockups, hero content, search, and sidebar-based navigation
+- adopting Liquid Glass on Apple TV with the least custom chrome possible, using standard controls first and custom glass only where the platform expects it
 - keeping Apple TV layouts stable when focus expands controls and content lockups
 - structuring playback around `AVPlayerViewController`, PiP, transport controls, and catalog-to-player handoff
 - handling system entry surfaces such as universal links, scene routing, Top Shelf, and tvOS-specific App Intents constraints

@@ -10,6 +10,7 @@ Repo for local Codex plugins distributed to the team.
   - `commit-commands`
 - `build-tvos-apps`
   - `tvos-ui-patterns`
+  - `tvos-liquid-glass`
   - `tvos-media-playback`
   - `tvos-system-surfaces`
   - `tvos-debugger-agent`

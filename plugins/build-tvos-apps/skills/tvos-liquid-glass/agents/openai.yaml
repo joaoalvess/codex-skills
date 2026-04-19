@@ -1,0 +1,4 @@
+interface:
+  display_name: "tvOS Liquid Glass"
+  short_description: "Adopt Liquid Glass on Apple TV with standard controls first and custom glass where it truly fits"
+  default_prompt: "Adopt or review Liquid Glass in a tvOS SwiftUI feature, keeping the glass layer aligned with focus, controls, sidebars, and Apple TV interaction patterns."
