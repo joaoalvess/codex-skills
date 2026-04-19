@@ -1,0 +1,4 @@
+interface:
+  display_name: "tvOS Debugger Agent"
+  short_description: "Build and debug tvOS apps on a booted Apple TV simulator with XcodeBuildMCP"
+  default_prompt: "Run or debug the current tvOS app on a booted Apple TV simulator, inspect focus behavior, capture screenshots, and summarize the relevant logs."

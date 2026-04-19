@@ -1,0 +1,6 @@
+interface:
+  display_name: "Build tvOS Apps"
+  short_description: "Build, refine, and debug modern tvOS apps with SwiftUI, playback, and simulator workflows"
+  icon_small: "./assets/build-tvos-apps.svg"
+  icon_large: "./assets/build-tvos-apps.svg"
+  default_prompt: "Use Build tvOS Apps to design focus-first SwiftUI interfaces, build shelves and lockups, wire playback, handle system surfaces, or debug an Apple TV app on a simulator."

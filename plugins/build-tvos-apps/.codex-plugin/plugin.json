@@ -1,0 +1,47 @@
+{
+  "name": "build-tvos-apps",
+  "version": "0.1.0",
+  "description": "Build focus-first tvOS apps with SwiftUI, playback, accessibility, system-surface, and Apple TV simulator workflows.",
+  "author": {
+    "name": "Joao Alves",
+    "email": "contato@joaoalvescosta.com.br",
+    "url": "https://github.com/joaoalvess"
+  },
+  "homepage": "https://github.com/joaoalvess/codex-skills",
+  "repository": "https://github.com/joaoalvess/codex-skills",
+  "license": "MIT",
+  "keywords": [
+    "tvos",
+    "apple-tv",
+    "swift",
+    "swiftui",
+    "focus",
+    "playback",
+    "avkit",
+    "xcode",
+    "accessibility",
+    "debugging"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Build tvOS Apps",
+    "shortDescription": "Build, refine, and debug modern tvOS apps with SwiftUI, playback, and simulator workflows",
+    "longDescription": "Use Build tvOS Apps to design focus-first SwiftUI interfaces, build shelves and lockups that survive focus expansion, wire playback around AVPlayerViewController, handle Top Shelf and universal-link entry surfaces, audit accessibility and performance, and debug Apple TV apps on simulators with XcodeBuildMCP-backed flows.",
+    "developerName": "Joao Alves",
+    "category": "Coding",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/joaoalvess/codex-skills",
+    "privacyPolicyURL": "https://github.com/joaoalvess/codex-skills",
+    "termsOfServiceURL": "https://github.com/joaoalvess/codex-skills",
+    "defaultPrompt": "Design or refactor a tvOS app using focus-first SwiftUI patterns, playback best practices, system-surface integration, accessibility reviews, or Apple TV simulator debugging.",
+    "brandColor": "#0A84FF",
+    "composerIcon": "./assets/build-tvos-apps.svg",
+    "logo": "./assets/build-tvos-apps.svg",
+    "screenshots": []
+  }
+}

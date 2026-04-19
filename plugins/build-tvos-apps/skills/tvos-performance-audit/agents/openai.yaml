@@ -1,0 +1,4 @@
+interface:
+  display_name: "tvOS Performance Audit"
+  short_description: "Audit focus, shelf, and playback performance problems in tvOS apps"
+  default_prompt: "Review a tvOS performance issue involving focus movement, shelves, playback overlays, image cost, or dropped frames, then recommend targeted fixes."

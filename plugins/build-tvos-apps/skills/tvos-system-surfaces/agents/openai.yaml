@@ -1,0 +1,4 @@
+interface:
+  display_name: "tvOS System Surfaces"
+  short_description: "Handle tvOS deep links, Top Shelf, restoration, and optional App Intents"
+  default_prompt: "Design or review how a tvOS app enters from universal links, Top Shelf, scene restoration, or optional App Intents."

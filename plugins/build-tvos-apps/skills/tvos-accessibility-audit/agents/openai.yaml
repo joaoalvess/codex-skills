@@ -1,0 +1,4 @@
+interface:
+  display_name: "tvOS Accessibility Audit"
+  short_description: "Audit focus order, legibility, media accessibility, and reduced-motion behavior on Apple TV"
+  default_prompt: "Review a tvOS experience for focus order, readability from a distance, captions, contrast, and reduced-motion or reduced-transparency behavior."

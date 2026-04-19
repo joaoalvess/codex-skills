@@ -1,0 +1,4 @@
+interface:
+  display_name: "tvOS Media Playback"
+  short_description: "Build tvOS playback flows around AVKit, Siri Remote behavior, and player overlays"
+  default_prompt: "Design or review a tvOS playback flow using AVPlayerViewController, PiP, remote transport controls, and restrained player overlays."

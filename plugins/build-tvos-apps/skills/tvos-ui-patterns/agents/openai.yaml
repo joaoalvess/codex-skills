@@ -1,0 +1,4 @@
+interface:
+  display_name: "tvOS UI Patterns"
+  short_description: "Build focus-first tvOS SwiftUI UI with shelves, lockups, search, and sidebar navigation"
+  default_prompt: "Design or refactor a tvOS SwiftUI screen using focus-first navigation, shelves, lockups, search, and standard Apple TV interaction patterns."

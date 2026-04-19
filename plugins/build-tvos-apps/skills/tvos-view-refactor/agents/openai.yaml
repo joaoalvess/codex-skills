@@ -1,0 +1,4 @@
+interface:
+  display_name: "tvOS View Refactor"
+  short_description: "Refactor tvOS SwiftUI screens around stable focus regions and content surfaces"
+  default_prompt: "Refactor a large tvOS SwiftUI view into stable Apple TV surfaces such as hero sections, shelves, search results, details, and player overlays."

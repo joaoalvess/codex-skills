@@ -8,6 +8,14 @@ Repo for local Codex plugins distributed to the team.
   - `alexa-control`
   - `spotify-control`
   - `commit-commands`
+- `build-tvos-apps`
+  - `tvos-ui-patterns`
+  - `tvos-media-playback`
+  - `tvos-system-surfaces`
+  - `tvos-debugger-agent`
+  - `tvos-performance-audit`
+  - `tvos-accessibility-audit`
+  - `tvos-view-refactor`
 
 ## Team setup
 
@@ -30,3 +38,4 @@ Repo for local Codex plugins distributed to the team.
 
 - The plugin is repo-local and versioned with the repository.
 - If the team later wants global installation outside a single workspace, the same plugin can be copied to `~/plugins` and referenced from `~/.agents/plugins/marketplace.json`.
+- `build-tvos-apps` is tvOS-first on purpose: focus, remote behavior, shelves, playback, deep links, and Apple TV simulator workflows are the default posture, not iOS UI transplanted onto a TV.
