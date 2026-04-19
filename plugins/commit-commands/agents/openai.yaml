@@ -1,0 +1,6 @@
+interface:
+  display_name: "Commit Commands"
+  short_description: "Commit, push, and open PRs with grouped conventional commits"
+  icon_small: "./assets/commit-commands.svg"
+  icon_large: "./assets/commit-commands.svg"
+  default_prompt: "Use Commit Commands to publish current changes with commit-push or commit-push-pr using grouped conventional commits."

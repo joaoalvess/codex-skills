@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit Commands"
+  short_description: "Commit, push, and open PRs with grouped conventional commits"
+  default_prompt: "Publish current changes with commit-push or commit-push-pr using conventional commits and an English pr.md file."

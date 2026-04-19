@@ -1,0 +1,6 @@
+interface:
+  display_name: "Alexa Control"
+  short_description: "Control Alexa devices, routines, smart-home commands, and playback"
+  icon_small: "./assets/alexa-control.svg"
+  icon_large: "./assets/alexa-control.svg"
+  default_prompt: "Use Alexa Control to turn devices on or off, run routines, make Alexa speak, or control Echo playback from Codex."

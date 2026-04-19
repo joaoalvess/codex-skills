@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spotify Control"
+  short_description: "Control Spotify playback from Codex on macOS"
+  default_prompt: "Control Spotify playback, volume, or current-track lookup on this Mac using local AppleScript automation."

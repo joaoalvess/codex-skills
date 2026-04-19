@@ -1,0 +1,43 @@
+{
+  "name": "commit-commands",
+  "version": "0.1.0",
+  "description": "Automate Git and GitHub publish workflows from Codex with grouped conventional commits and optional PR creation.",
+  "author": {
+    "name": "Joao Alves",
+    "email": "contato@joaoalvescosta.com.br",
+    "url": "https://github.com/joaoalvess"
+  },
+  "homepage": "https://github.com/joaoalvess/codex-skills",
+  "repository": "https://github.com/joaoalvess/codex-skills",
+  "license": "MIT",
+  "keywords": [
+    "git",
+    "github",
+    "pull-request",
+    "conventional-commits",
+    "workflow",
+    "automation",
+    "codex"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Commit Commands",
+    "shortDescription": "Commit, push, and open PRs with grouped conventional commits",
+    "longDescription": "Use Commit Commands to publish local changes with grouped conventional commits, optional branch creation, `pr.md` generation, and ready GitHub pull requests without Codex attribution in branch names or commit copy.",
+    "developerName": "Joao Alves",
+    "category": "Coding",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/joaoalvess/codex-skills",
+    "privacyPolicyURL": "https://github.com/joaoalvess/codex-skills",
+    "termsOfServiceURL": "https://github.com/joaoalvess/codex-skills",
+    "defaultPrompt": "Use Commit Commands to publish current changes with commit-push or commit-push-pr using grouped conventional commits.",
+    "brandColor": "#0D1117",
+    "composerIcon": "./assets/commit-commands.svg",
+    "logo": "./assets/commit-commands.svg",
+    "screenshots": []
+  }
+}

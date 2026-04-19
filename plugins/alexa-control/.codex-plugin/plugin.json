@@ -1,0 +1,43 @@
+{
+  "name": "alexa-control",
+  "version": "0.1.0",
+  "description": "Control Amazon Alexa devices, routines, smart-home actions, and playback from Codex on macOS.",
+  "author": {
+    "name": "Joao Alves",
+    "email": "contato@joaoalvescosta.com.br",
+    "url": "https://github.com/joaoalvess"
+  },
+  "homepage": "https://github.com/joaoalvess/codex-skills",
+  "repository": "https://github.com/joaoalvess/codex-skills",
+  "license": "MIT",
+  "keywords": [
+    "alexa",
+    "amazon",
+    "echo",
+    "smart-home",
+    "automation",
+    "macos",
+    "codex"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Alexa Control",
+    "shortDescription": "Control Alexa devices, routines, smart-home commands, and playback",
+    "longDescription": "Use Alexa Control to send Alexa voice commands, run routines, control Echo playback and volume, manage Bluetooth pairing, and trigger smart-home actions from Codex on macOS.",
+    "developerName": "Joao Alves",
+    "category": "Automation",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/joaoalvess/codex-skills",
+    "privacyPolicyURL": "https://github.com/joaoalvess/codex-skills",
+    "termsOfServiceURL": "https://github.com/joaoalvess/codex-skills",
+    "defaultPrompt": "Use Alexa Control to turn devices on or off, run routines, make Alexa speak, or control Echo playback from Codex.",
+    "brandColor": "#00A7FF",
+    "composerIcon": "./assets/alexa-control.svg",
+    "logo": "./assets/alexa-control.svg",
+    "screenshots": []
+  }
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Spotify Control"
+  short_description: "Control Spotify playback, volume, playback modes, and current track"
+  icon_small: "./assets/spotify-control.svg"
+  icon_large: "./assets/spotify-control.svg"
+  default_prompt: "Use Spotify Control to play, pause, skip tracks, inspect what is playing, or manage Spotify playback from Codex."

@@ -1,0 +1,43 @@
+{
+  "name": "spotify-control",
+  "version": "0.1.0",
+  "description": "Control Spotify playback, volume, position, shuffle, repeat, and current track from Codex on macOS.",
+  "author": {
+    "name": "Joao Alves",
+    "email": "contato@joaoalvescosta.com.br",
+    "url": "https://github.com/joaoalvess"
+  },
+  "homepage": "https://github.com/joaoalvess/codex-skills",
+  "repository": "https://github.com/joaoalvess/codex-skills",
+  "license": "MIT",
+  "keywords": [
+    "spotify",
+    "music",
+    "playback",
+    "applescript",
+    "macos",
+    "automation",
+    "codex"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Spotify Control",
+    "shortDescription": "Control Spotify playback, volume, playback modes, and current track",
+    "longDescription": "Use Spotify Control to play, pause, skip, inspect the current track, change volume and playback position, toggle shuffle or repeat, and control Spotify from Codex on macOS.",
+    "developerName": "Joao Alves",
+    "category": "Automation",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/joaoalvess/codex-skills",
+    "privacyPolicyURL": "https://github.com/joaoalvess/codex-skills",
+    "termsOfServiceURL": "https://github.com/joaoalvess/codex-skills",
+    "defaultPrompt": "Use Spotify Control to play, pause, skip tracks, inspect what is playing, or manage Spotify playback from Codex.",
+    "brandColor": "#1ED760",
+    "composerIcon": "./assets/spotify-control.svg",
+    "logo": "./assets/spotify-control.svg",
+    "screenshots": []
+  }
+}

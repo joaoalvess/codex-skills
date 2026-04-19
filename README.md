@@ -4,9 +4,11 @@ Repo for local Codex plugins distributed to the team.
 
 ## Included plugin
 
-- `joaoalvess-skills`
+- `alexa-control`
   - `alexa-control`
+- `spotify-control`
   - `spotify-control`
+- `commit-commands`
   - `commit-commands`
 - `build-tvos-apps`
   - `tvos-ui-patterns`
@@ -26,12 +28,12 @@ Repo for local Codex plugins distributed to the team.
 
 ## Local prerequisites
 
-- `spotify-control`
+- `spotify-control` plugin
   - macOS with the Spotify app installed
-- `alexa-control`
+- `alexa-control` plugin
   - local checkout of `alexa-remote-control` at `~/.alexa-remote-control`
   - authenticated Alexa session for the target account
-- `commit-commands`
+- `commit-commands` plugin
   - `git` repository with an `origin` remote
   - `gh` installed and authenticated for the `commit-push-pr` flow
 
